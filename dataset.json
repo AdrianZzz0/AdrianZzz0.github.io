@@ -1,0 +1,98 @@
+[
+    {
+        "question": "¿Qué es una variable en Python?",
+        "answer": "Una variable es un contenedor para almacenar datos."
+    },
+    {
+        "question": "¿Cómo se declara una variable en Python?",
+        "answer": "Se usa el signo igual para asignar un valor, por ejemplo: x = 10."
+    },
+    {
+        "question": "¿Qué es un bucle for?",
+        "answer": "Un bucle for se utiliza para iterar sobre una secuencia como listas, cadenas o rangos."
+    },
+    {
+        "question": "¿Cómo crear una lista en Python?",
+        "answer": "Usa corchetes para crear una lista, por ejemplo: mi_lista = [1, 2, 3]."
+    },
+    {
+        "question": "¿Qué es una función en Python?",
+        "answer": "Una función es un bloque de código reutilizable que se define con la palabra clave 'def'."
+    },
+    {
+        "question": "¿Qué es una clase en Python?",
+        "answer": "Una clase es un modelo para crear objetos, definida con la palabra clave 'class'."
+    },
+    {
+        "question": "¿Cómo se define una función en Python?",
+        "answer": "Usa la palabra clave 'def', seguida del nombre de la función y paréntesis, por ejemplo: def mi_funcion():"
+    },
+    {
+        "question": "¿Qué es una excepción en Python?",
+        "answer": "Una excepción es un error que ocurre durante la ejecución de un programa."
+    },
+    {
+        "question": "¿Cómo se maneja una excepción en Python?",
+        "answer": "Usa bloques try y except para manejar excepciones."
+    },
+    {
+        "question": "¿Qué es un diccionario en Python?",
+        "answer": "Un diccionario es una colección no ordenada de pares clave-valor, por ejemplo: mi_diccionario = {'clave': 'valor'}."
+    },
+    {
+        "question": "¿Cómo añadir un elemento a una lista?",
+        "answer": "Usa el método append(), por ejemplo: mi_lista.append(4)."
+    },
+    {
+        "question": "¿Qué es una tupla en Python?",
+        "answer": "Una tupla es una colección ordenada e inmutable de elementos, definida con paréntesis, por ejemplo: mi_tupla = (1, 2, 3)."
+    },
+    {
+        "question": "¿Qué es un módulo en Python?",
+        "answer": "Un módulo es un archivo que contiene código Python reutilizable, como funciones y clases."
+    },
+    {
+        "question": "¿Cómo se importa un módulo en Python?",
+        "answer": "Usa la palabra clave 'import', por ejemplo: import math."
+    },
+    {
+        "question": "¿Qué es una lista por comprensión en Python?",
+        "answer": "Es una forma compacta de crear listas, por ejemplo: [x for x in range(5)]."
+    },
+    {
+        "question": "¿Cómo se abre un archivo en Python?",
+        "answer": "Usa la función open(), por ejemplo: archivo = open('mi_archivo.txt', 'r')."
+    },
+    {
+        "question": "¿Qué es una cadena en Python?",
+        "answer": "Una cadena es una secuencia de caracteres delimitada por comillas simples o dobles."
+    },
+    {
+        "question": "¿Cómo convertir un número en cadena?",
+        "answer": "Usa la función str(), por ejemplo: str(123)."
+    },
+    {
+        "question": "¿Qué es Python?",
+        "answer": "Python es un lenguaje de programación interpretado, de alto nivel y de propósito general."
+    },
+    {
+        "question": "¿Qué es una lista en Python?",
+        "answer": "Una lista es una colección ordenada de elementos que pueden ser modificados."
+    },
+    {
+        "question": "¿Cómo se calcula la longitud de una lista?",
+        "answer": "Usa la función len(), por ejemplo: len(mi_lista)."
+    },
+    {
+        "question": "¿Cómo se usa un bucle while en Python?",
+        "answer": "Un bucle while se usa para repetir un bloque de código mientras una condición es verdadera, por ejemplo: while x < 5:."
+    },
+    {
+        "question": "¿Qué es una biblioteca en Python?",
+        "answer": "Una biblioteca es una colección de módulos y funciones reutilizables."
+    },
+    {
+        "question": "¿Cómo se instala una biblioteca en Python?",
+        "answer": "Usa el gestor de paquetes pip, por ejemplo: pip install nombre_biblioteca."
+    }
+]
